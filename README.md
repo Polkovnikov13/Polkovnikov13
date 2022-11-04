@@ -32,6 +32,6 @@
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, Docker, REST
 
----
+
 
 [git]: https://github.com/Polkovnikov13
